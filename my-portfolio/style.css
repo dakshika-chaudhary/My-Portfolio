@@ -1,0 +1,620 @@
+*{
+   
+padding:0px;
+}
+body{
+  background-image: url('portfolio.jpg');
+  background-size: cover;
+}
+
+.logo{
+  font-family: 'Carattere', cursive;
+margin-right: 400px;
+font-size: 80px;
+color: rgb(169, 108, 17);
+}
+
+.header{
+    margin-top:40px;
+
+display:flex;
+justify-content: end;
+margin-left:100px;
+align-content: space-between;
+
+}
+
+
+.Skills{
+  margin-left: -200px;
+  font-size: 30px;
+margin-right:50px;
+
+}
+.Skills:hover{
+  margin-left: -200px;
+  font-size: 30px;
+margin-right:50px;
+color: rgb(116, 97, 97);
+
+}
+
+
+.contact{
+
+  margin-right: 30px;
+  font-size: 30px;
+  
+}
+a{
+  color:black
+}
+
+
+
+.contact:hover{
+  color: rgb(116, 97, 97);
+  margin-right: 30px;
+  font-size: 30px;
+  
+}
+
+.Resume{
+  font-size: 30px;
+  margin-right: 50px;
+  
+}
+
+.Resume:hover{
+  font-size: 30px;
+    
+  color: rgb(116, 97, 97);}
+
+  
+  
+
+
+.Projects{
+  font-size: 30px;
+  margin-right: 50px;
+  
+}
+
+.Projects:hover{
+  font-size: 30px;
+  margin-right: 50px;
+  
+  color: rgb(116, 97, 97);}
+
+.Achievments{
+  font-size: 30px;
+margin-right: -200px;
+  
+}
+
+.Achievments:hover{
+  font-size: 30px;
+margin-right: -200px;
+color: rgb(116, 97, 97);
+  
+}
+
+
+p{
+    display:flex;
+    justify-content: end;
+  align-content: space-between;
+
+margin-left:200px;
+}
+p{
+  margin-right:100px;
+font-size:26px;
+}
+
+.about{
+  background-color:rgb(247, 246, 245);
+    height:1200px;
+   margin-bottom: 70px;
+    width:95%;
+    display: flex;
+    justify-content: center;
+  margin-left: 50px;
+  border-radius: 50px;;
+  box-shadow: 12px 12px 12px 12px rgb(87, 79, 79);
+
+}
+
+.photo img{
+  
+    height:1000px;
+    border-radius:550px;
+    margin-right:-2700px;
+   
+}
+
+.photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:-300px
+}
+
+
+.name{
+    margin-right:-1290px;
+  
+  height:200px;
+  width:300px;
+}
+
+.name p{
+  margin-right: 500px;
+    margin-left: -620px;
+    font-size: 70px;
+   
+}
+
+.chaudhary{
+ height:90px;
+ width:300px;
+
+
+  margin-top: -145px;
+
+  color: rgb(169, 108, 17);
+}
+.dakshika{
+
+   height:90px;
+  color: rgb(169, 108, 17);
+  width:300px;
+  
+ 
+   margin-top: -60px;
+ 
+}
+.name .prof{
+    margin-left: -650px;
+     font-size: 46px;
+    width:320px; 
+    color:rgb(121, 25, 25)
+}
+
+
+.expert p{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ margin-left: 1600px;
+ margin-top:300px;
+ height:100px;width:200px;
+
+ font-size:66px;
+ border-radius: 100%;
+ box-shadow: 10px 10px 10px 10px rgb(175, 171, 171);
+
+ 
+ 
+}
+
+.expert .paragraph{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    font-size: 34px;
+    font-family: 'Carattere', cursive;
+    font-family: 'Vollkorn', serif;
+    height:400px;
+    width:700px;
+    margin-right:-2800px;
+  box-shadow: 12px 12px 12px 12px rgb(175, 171, 171);
+ margin-left:1800px;
+ border-radius: 100px;;
+}
+
+.links{
+  margin-left: -100px;;
+ 
+  display: flex;
+  justify-content: center;
+
+  margin-top: 1000px;
+  align-content: space-between;
+}
+
+.fa-instagram{
+
+    font-size: 70px;
+   
+
+}
+
+
+.fa-linkedin{
+  font-size: 70px;
+margin-left:80px;
+color:rgb(48, 48, 233)
+}
+
+.fa-github{
+  font-size: 70px;
+  margin-left:80px;
+  margin-right: -600px;
+}
+/* ----------------------------------------------------------------contact page------------------------------------------------------------------------- */
+.contact-form{
+  display: flex;
+  justify-content: center;
+align-items: center;
+
+
+}
+.contactme{
+ 
+
+  justify-content: center;
+
+  background-color: rgba(216, 219, 218, 0.84);
+  height:800px;
+  width:60%;
+  box-shadow: 14px 14px rgb(153, 152, 152);
+border-radius:80px;
+
+margin-top: 100px;
+}
+.heading{
+  margin-left: 34%;
+  font-size: 70px;
+  display:inline;
+
+}
+
+.email{
+  margin-left: 20%;
+  display:flex;
+  justify-content: center;
+  height:80px;
+  width:650px;
+padding:20px;
+  border-radius: 20px;
+}
+
+.chomelink a{
+  margin-left: -340px;
+  color:rgb(94, 74, 74);
+  font-size: 50px;
+ 
+}
+.contactname{
+  margin-left: 20%;
+  display:flex;
+  justify-content: center;
+  height:80px;
+  width:650px;
+padding:20px;
+  border-radius: 20px;
+}
+
+.contactname-id{
+  height:80px;
+  width:400px;
+  border-radius: 20px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.email-id{
+  height:80px;
+  width:700px;
+  border-radius: 20px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.feedback-write{
+  height:80px;
+  width:700px;
+  border-radius:20px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback{
+  margin-left: 20%;
+  display:flex;
+  justify-content: center;
+  height:120px;
+  width:650px;
+padding:20px;
+  border-radius: 20px;
+
+}
+.check{
+margin-left:30%;
+padding:30px;
+
+
+}
+button{
+  margin-top: 40px;
+  padding: 10px;
+  margin-left:80%;
+font-size: 40px;
+border-radius: 30px;
+
+}
+
+.checkbox{
+  font-size: 30px;
+  margin-left: 17%;
+  padding:30px;
+}
+
+.form-label{
+  font-size: 32px;
+  padding:30px
+
+}
+.myemail{
+  margin-top:-50px;
+  font-size: 40px;
+  color:rgb(115, 106, 6);
+  margin-left:10%;
+  font-weight: 0.7px;
+}
+
+.myemail:hover{
+  margin-top:-50px;
+  font-size: 40px;
+  color:rgb(35, 34, 17);
+  margin-left:10%;
+  font-weight: 1px;
+}
+
+.contactlinks{
+  font-size: 20px;
+padding-top: 20px;
+  font-size: 40px;
+  font-weight: 1px;
+  display: flex;
+  justify-content: center;
+margin-left:10px;
+  align-content: space-between;
+  margin-right:1050px;
+
+}
+/* -----------------------------------------------skillpage--------------------------------------------------- */
+
+.skillpage{
+  margin-top: 100px;;
+  margin-left: 700px;
+  margin-bottom: 100px;
+height:1600px;
+width:1200px;
+background-color: rgb(234, 232, 228);
+border-radius: 80px;
+justify-content: center;
+background-color: rgba(216, 219, 218, 0.84);
+
+}
+.skillheading{
+  margin-left: 450px;
+  font-size: 80px;
+ font-weight: 600;
+
+}
+ .skillfront img{
+ margin-left: 100px;
+  height:200px;
+  box-shadow: 12px 14px 14px rgba(60, 59, 59, 0.584);
+
+
+}
+h2{
+  margin-left: 40px;
+  font-size: 50px;
+}
+h2{
+  margin-left: 40px;
+  font-size: 50px;
+}
+
+.skillback img{
+  height:200px;
+  box-shadow: 12px 14px 14px rgba(60, 59, 59, 0.584);
+  margin-left: 100px;
+
+}
+
+
+.skilldata img{
+  height:200px;
+  display:flex;
+  box-shadow: 12px 14px 14px rgba(60, 59, 59, 0.584);
+  margin-left: 100px;
+
+}
+.skillcpp img{
+  height:200px;
+  display:flex;
+  box-shadow: 12px 14px 14px rgba(60, 59, 59, 0.584);
+  margin-left: 100px;
+
+}
+.homelink a{
+  
+  margin-left: -340px;
+  color:rgb(220, 32, 32);
+  font-size: 50px;
+}
+
+/* ------------------------------------My Project------------------------------------------- */
+.projectbox{
+
+  margin-top: 100px;;
+  margin-left: 400px;
+  margin-bottom: 100px;
+height:1600px;
+width:1200px;
+background-color: rgb(234, 232, 228);
+border-radius: 80px;
+justify-content: center;
+background-color: rgba(216, 219, 218, 0.84);
+}
+
+.projectheading{
+  margin-left: 450px;
+  font-size: 80px;
+ font-weight: 600;
+
+}
+
+.projectlink  h3{
+  width:240px;
+  font-size: 60px;
+margin-left: 100px;
+color: rgb(76, 24, 21);
+margin-bottom: 19px;
+
+
+}
+.projectlink a{
+  font-size: 35px;
+  color:rgb(6, 207, 100);
+  margin-left:100px;
+ 
+}
+.projectlink p{
+  margin-left: 40px;
+  height:450px;
+  width:500px;
+  background-color: rgb(218, 225, 225);
+  border-radius: 40px;
+  box-shadow: 14px 14px 14px rgb(187, 183, 183) ;
+}
+.plinks{
+  display: flex;
+  margin-top: 10px;
+  margin-left: 1px;
+}
+/* -----------------------------------------my resume------------------------------------------------- */
+.resumename{
+font-size: 44px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.resumecontact{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:rgb(83, 92, 92)
+  }
+
+  .resumeprojects{
+    font-size: 30px;
+    color: blue;
+  }
+  .rproject{
+    font-size: 25px;
+
+  }
+  .resumeskills{
+  
+    display:flex;
+    font-size: 30px;
+    color: blue;
+  }
+ li{
+margin-right: 200px;;
+margin-left: 28px;
+  font-size: 23px;
+ font-weight: 400;
+ }
+ .rskills{
+  display: flex;
+ }
+ .progskills {
+  margin-top:20px;
+  margin-left: -200px;
+ }
+
+ .homereslink{
+  font-size:36px;
+  color: rgb(195, 23, 23);
+ }
+ .resumeachiv{
+  margin-left: 200px;
+  display:flex;
+  font-size: 30px;
+  color: blue;
+ }
+ 
+ .resumeachiv ol ul{
+  margin-left: -150px;
+  margin-top: 20px;
+  font-size: 25px;
+  color: black;
+ }
+ .resumeachiv ol ul li{
+ 
+  font-size: 25px;
+  color: rgb(187, 41, 41);
+ }
+ .resumeeducation{
+
+  display:flex;
+  font-size: 30px;
+  color: blue;
+ }
+ .resumeeducation ul li {
+  color: black;
+ }
+ .resumeeducation ul li ol li {
+  color: rgb(170, 19, 19);
+  
+ }
+ .achivheading{
+  font-size: 70px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+ }
+
+ .achivleetcode img{
+  height:600px;
+  margin-left: 750px;
+  box-shadow: 14px 14px 14px rgb(54, 52, 52);
+  margin-top: -200px;
+ }
+
+ .achivcontent {
+  font-size: 40px;
+  margin-top:200px;
+  margin-left: 150px;
+ }
+ 
+ .achievhacker img{
+  height:400px;
+ box-shadow: 14px 14px 14px rgb(54, 52, 52);
+  margin-left: 750px;
+  margin-top: -200px;
+ }
+ .homeachivlink a{
+font-size: 40px;
+color:rgb(212, 20, 20)
+ }
+ .achivcontent a{
+  color:rgb(90, 11, 235)
+ }
